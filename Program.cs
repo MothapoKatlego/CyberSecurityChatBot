@@ -8,9 +8,6 @@ namespace CyberSecurityChatBot
     {
         static void Main(string[] args)
         {
-
-            
-
             string[] asciiArt = new string[]
             {
                 @"  ____        _               _                                _            _           ",
